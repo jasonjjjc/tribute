@@ -1,1 +1,29 @@
 /* Copy and paste your CSS from CodePen into here */
+main {
+  margin: auto;
+  width: 80%;
+  background-color: grey;
+}
+
+#img-div {
+  width: 60%;
+  margin: auto;
+  padding: 50px 50px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #tribute-info {
+    width: 90%;
+    text-align: justify;
+    margin: auto;
+    padding-bottom : 50px;
+  }
