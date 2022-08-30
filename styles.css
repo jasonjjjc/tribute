@@ -11,6 +11,9 @@ main {
   padding: 50px 50px;
 }
 
+#img-caption {
+  text-align: center; 
+}
 
 #image {
     display: block;
