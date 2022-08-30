@@ -11,6 +11,10 @@ main {
   padding: 50px 50px;
 }
 
+#img-caption {
+ margin: auto; 
+}
+
 #image {
     display: block;
     max-width: 100%;
